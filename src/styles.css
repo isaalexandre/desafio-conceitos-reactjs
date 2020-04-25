@@ -5,7 +5,7 @@
 }
 
 body {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 div {
@@ -23,17 +23,30 @@ div li + li {
 }
 
 button {
-  background: #7159c1;
+  background: #64c159;
   color: #fff;
   border: 0;
+  border-radius: 8px;
   padding: 10px 15px;
   cursor: pointer;
   margin-top: 15px;
-  font-weight: bold;
+  font-weight: 700;
+  margin-top: 16px;
+  text-align: center;
+  text-decoration: none;
   font-size: 14px;
+  transition: filter 0.2s;
 }
 
 div li button {
   margin: 0 15px;
-  background: #ca4949;
+  background: #dc5555e0;
+}
+
+span {
+  font-weight: 700;
+  margin-top: 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 40px;
 }
