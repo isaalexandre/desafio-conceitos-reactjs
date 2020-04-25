@@ -25,7 +25,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, eu criei uma aplicação que irá armazenar repositórios no meu portfólio, a aplicação em backend se encontra na url: **[Acessar Template](https://github.com/isaalexandre/conceitos-nodejs)**.
+Nesse desafio, eu criei uma aplicação que irá armazenar repositórios no meu portfólio, a aplicação em backend se encontra na url: **[Acessar Backend](https://github.com/isaalexandre/conceitos-nodejs)**.
 
 ### Funcionalidades da aplicação
 
